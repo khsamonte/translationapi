@@ -5969,6 +5969,26 @@
       "CHINESE": "由两个现实中不同的对战组合各取1队並配对成梦幻对战供玩家预测结果。",
       "ENGLISH": "These are events where two teams, from two separate matches, are paired together for predicting imaginary outcomes.",
       "_CMSKEY": "o_FANTASYMATCHESINFORMATION"
+    },
+    {
+      "CHINESE": "独赢 & 双方皆进球",
+      "ENGLISH": "1 X 2 & Both to Score",
+      "_CMSKEY": "o_1X2BTTS"
+    },
+    {
+      "CHINESE": "加时赛分数由 0-0 开始。",
+      "ENGLISH": "Extra Time score starts at 0 – 0.",
+      "_CMSKEY": "o_INFOMESSAGEEVENTFILTER"
+    },
+    {
+      "CHINESE": "全场分数为 X - X。",
+      "ENGLISH": "Full Time score is X – X.",
+      "_CMSKEY": "o_INFOMESSAGEEVENTFILTER"
+    },
+    {
+      "CHINESE": "罚牌玩法为点数制。一张红卡等于两点，黄卡为一点。三点为每个球员的最大点数上限。",
+      "ENGLISH": "Booking markets are settled on a points system. Red Cards equal 2 points, while Yellow Cards equal 1 point. The maximum points any player can accumulate is 3.",
+      "_CMSKEY": "o_BOOKINGMRKETS"
     }
   ]
 }
