@@ -5989,6 +5989,11 @@
       "CHINESE": "罚牌玩法为点数制。一张红卡等于两点，黄卡为一点。三点为每个球员的最大点数上限。",
       "ENGLISH": "Booking markets are settled on a points system. Red Cards equal 2 points, while Yellow Cards equal 1 point. The maximum points any player can accumulate is 3.",
       "_CMSKEY": "o_BOOKINGMRKETS"
+    },
+    {
+      "CHINESE": "7或更多",
+      "ENGLISH": "7 or More",
+      "_CMSKEY": "o_7MORE"
     }
   ]
 }
