@@ -4176,7 +4176,7 @@
       "_CMSKEY": "o_THEREARENOEVENTSSCHDULE"
     },
     {
-      "CHINESE": "目前暂时没有任何赌盘",
+      "CHINESE": "目前沒有任何賽事",
       "ENGLISH": "Markets are temporarily unavailable.",
       "_CMSKEY": "o_THEREARENOMARKETS"
     },
@@ -5994,11 +5994,6 @@
       "CHINESE": "7或更多",
       "ENGLISH": "7 or More",
       "_CMSKEY": "o_7MORE"
-    },
-    {
-      "CHINESE": "目前沒有任何賽事",
-      "ENGLISH": "There are no more markets.",
-      "_CMSKEY": "o_THEREARENOMARKETS"
     }
   ]
 }
