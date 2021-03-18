@@ -6029,6 +6029,11 @@
       "CHINESE": "队员们：队员1-最后一位数字",
       "ENGLISH": "TEAM POINTS: TEAM NAME 1- LAST DIGIT",
       "_CMSKEY": "o_TEAMPOINTSTEAMLASTDIGIT"
+    },
+    {
+      "CHINESE": "切换至新版本网站",
+      "ENGLISH": "Switch to New Site",
+      "_CMSKEY": "o_SWITCHTONEWSITE"
     }
   ]
 }
