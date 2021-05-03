@@ -223,12 +223,37 @@
     {
       "_CMSKEY": "o_EDIT_THEME_INSTRUCTION",
       "ENGLISH": "Select an element to edit its color.",
-      "CHINESE": "请选更改的构件"
+      "CHINESE": "请选想更改的元素。"
     },
     {
       "_CMSKEY": "o_SET_MAIN_COLOR_INSTRUCTION",
       "ENGLISH": "Select main color to edit.",
-      "CHINESE": "请选更改的主颜色"
+      "CHINESE": "请选想更改的主颜色。"
+    },
+    {
+      "_CMSKEY": "o_EDIT_THEME_INSTRUCTION_1",
+      "ENGLISH": "To start editing, click on a component.",
+      "CHINESE": "请点选网页上的元素以开始编辑。"
+    },
+    {
+      "_CMSKEY": "o_EDIT_THEME_INSTRUCTION_2",
+      "ENGLISH": "From the menu that appeared, select the element you want to edit.",
+      "CHINESE": "选取列表中的元素以更改颜色。"
+    },
+    {
+      "_CMSKEY": "o_EDIT_THEME_INSTRUCTION_3",
+      "ENGLISH": "Once an element has been selected, the color editor will appear on the left.",
+      "CHINESE": "当元素被选定，调色板会显示在左边。"
+    },
+    {
+      "_CMSKEY": "o_SET_MAIN_COLOR_INSTRUCTION",
+      "ENGLISH": "Select from the Main Colors above to edit the color scheme of your template.",
+      "CHINESE": "从主颜色列表中选择想编辑的颜色。"
+    },
+    {
+      "_CMSKEY": "o_SAVING",
+      "ENGLISH": "Saving",
+      "CHINESE": "保存中"
     }
   ]
 }
