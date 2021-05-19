@@ -305,6 +305,72 @@
       "ENGLISH": "Saving",
       "CHINESE": "保存中",
       "CHINESE_ZH": "保存中"
+    },
+    {
+      "_CMSKEY": "o_ADDING_NEW_THEME",
+      "ENGLISH": "Adding New Theme ",
+      "CHINESE": "加新模板",
+      "CHINESE_ZH": "加新模板"
+    },
+    {
+      "_CMSKEY": "o_ADDING_NEW_THEME_ONBOARDING",
+      "ENGLISH": "From the theme ribbon section, it displays a “+” icon which let’s you start creating your new theme. ",
+      "CHINESE": "点”+“ 标图来创建新模板。",
+      "CHINESE_ZH": "点”+“ 标图来创建新模板。"
+    },
+    {
+      "_CMSKEY": "o_THEME_STATUS",
+      "ENGLISH": "Theme Status",
+      "CHINESE": "模板状态",
+      "CHINESE_ZH": "模板状态"
+    },
+    {
+      "_CMSKEY": "o_THEME_STATUS_ONBOARDING_INACTIVE",
+      "ENGLISH": "“Inactive” which is not yet published, ",
+      "CHINESE": "“未启动” - 这状态代表模板还没发布到任何环境",
+      "CHINESE_ZH": "“未启动” - 这状态代表模板还没发布到任何环境"
+    },
+    {
+      "_CMSKEY": "o_THEME_STATUS_ONBOARDING_UAT",
+      "ENGLISH": "“UAT” published to UAT environment ",
+      "CHINESE": "“UAT版本” 状态，代表模板已发布到UAT环境",
+      "CHINESE_ZH": "“UAT版本” 状态，代表模板已发布到UAT环境"
+    },
+    {
+      "_CMSKEY": "o_THEME_STATUS_ONBOARDING_LIVE",
+      "ENGLISH": "“Live” published to Production environment. ",
+      "CHINESE": "“线上版本” 状态，代表模板已发布到线上环境",
+      "CHINESE_ZH": "“线上版本” 状态，代表模板已发布到线上环境"
+    },
+    {
+      "_CMSKEY": "o_CHANGING_VIEWS",
+      "ENGLISH": "Changing of Views",
+      "CHINESE": "改显示模式",
+      "CHINESE_ZH": "改显示模式"
+    },
+    {
+      "_CMSKEY": "o_CHANGING_VIEWS_ONBOARDING",
+      "ENGLISH": "Click on the mobile, tablet and desktop icons to see how your design looks in different devices and zoom in/out to view the whole site. ",
+      "CHINESE": "点“手机”， “平板” ， ”桌面“标图来切换显示模式。 也可以选百分比缩小，让您验证整个网站设计。",
+      "CHINESE_ZH": "点“手机”， “平板” ， ”桌面“标图来切换显示模式。 也可以选百分比缩小，让您验证整个网站设计。"
+    },
+    {
+      "_CMSKEY": "o_EDIT_THEME_ONBOARDING",
+      "ENGLISH": "Customizable components will be highlighted when the user hovers over it. Upon clicking, it will show all of the customizable elements. ",
+      "CHINESE": "当这些滑鼠移到可编辑的物件上会标记颜色。单击这些可编辑的物件会上列出可编辑的元素供选择。",
+      "CHINESE_ZH": "当这些滑鼠移到可编辑的物件上会标记颜色。单击这些可编辑的物件会上列出可编辑的元素供选择。"
+    },
+    {
+      "_CMSKEY": "o_PUBLISH_THEME_ONBOARDING",
+      "ENGLISH": "You can publish your theme to UAT or Production directly.",
+      "CHINESE": "您可将模板发布到 UAT 或是线上环境。",
+      "CHINESE_ZH": "您可将模板发布到 UAT 或是线上环境。"
+    },
+    {
+      "_CMSKEY": "o_PUBLISH_THEME",
+      "ENGLISH": "Publish Theme",
+      "CHINESE": "发布模板",
+      "CHINESE_ZH": "发布模板"
     }
   ]
 }
