@@ -3,374 +3,322 @@
     {
       "_CMSKEY": "o_STYLING",
       "ENGLISH": "Styling",
-      "CHINESE": "设计网站",
-      "CHINESE_ZH": "設計網站"
+      "CHINESE": "设计网站"
     },
     {
       "_CMSKEY": "o_BRAND_NAME",
       "ENGLISH": "Brand Name",
-      "CHINESE": "品牌",
-      "CHINESE_ZH": "品牌"
+      "CHINESE": "品牌"
     },
     {
       "_CMSKEY": "o_SELECT_TEMPLATE",
       "ENGLISH": "Select a Template",
-      "CHINESE": "选模板",
-      "CHINESE_ZH": "選模板"
+      "CHINESE": "选模板"
     },
     {
       "_CMSKEY": "o_LIGHT_THEME",
       "ENGLISH": "Light Theme",
-      "CHINESE": "浅色模板",
-      "CHINESE_ZH": "淺色模板"
+      "CHINESE": "浅色模板"
     },
     {
       "_CMSKEY": "o_DARK_THEME",
       "ENGLISH": "Dark theme",
-      "CHINESE": "暗色模板",
-      "CHINESE_ZH": "暗色模板"
+      "CHINESE": "黑暗模板"
     },
     {
       "_CMSKEY": "o_GREEN",
       "ENGLISH": "Green",
-      "CHINESE": "绿色",
-      "CHINESE_ZH": "綠色"
+      "CHINESE": "绿色"
     },
     {
       "_CMSKEY": "o_BLUE",
       "ENGLISH": "Blue",
-      "CHINESE": "蓝色",
-      "CHINESE_ZH": "藍色"
+      "CHINESE": "蓝色"
     },
     {
       "_CMSKEY": "o_TEAL",
       "ENGLISH": "Teal",
-      "CHINESE": "蓝绿色",
-      "CHINESE_ZH": "藍綠色"
+      "CHINESE": "蓝绿色"
     },
     {
       "_CMSKEY": "o_RED",
       "ENGLISH": "Red",
-      "CHINESE": "红色",
-      "CHINESE_ZH": "紅色"
+      "CHINESE": "红色"
     },
     {
       "_CMSKEY": "o_YELLOW",
       "ENGLISH": "Yellow",
-      "CHINESE": "黄色",
-      "CHINESE_ZH": "黃色"
+      "CHINESE": "黄色"
     },
     {
       "_CMSKEY": "o_EDIT_THEME",
       "ENGLISH": "Edit Theme",
-      "CHINESE": "编辑模板",
-      "CHINESE_ZH": "編輯模板"
+      "CHINESE": "编辑模板"
     },
     {
       "_CMSKEY": "o_DELETE_THEME",
       "ENGLISH": "Delete theme",
-      "CHINESE": "删除模板",
-      "CHINESE_ZH": "刪除模板"
+      "CHINESE": "删除模板"
     },
     {
       "_CMSKEY": "o_INACTIVE",
       "ENGLISH": "Inactive",
-      "CHINESE": "未启用",
-      "CHINESE_ZH": "未啟用"
+      "CHINESE": "未启动"
     },
     {
       "_CMSKEY": "o_LIVE",
       "ENGLISH": "Live",
-      "CHINESE": "线上版本",
-      "CHINESE_ZH": "線上版本"
+      "CHINESE": "线上版本"
     },
     {
       "_CMSKEY": "o_UAT",
       "ENGLISH": "UAT",
-      "CHINESE": "UAT版本",
-      "CHINESE_ZH": "UAT版本"
+      "CHINESE": "UAT版本"
     },
     {
       "_CMSKEY": "o_PUBLISH_UAT",
       "ENGLISH": "Publish UAT",
-      "CHINESE": "发布到UAT",
-      "CHINESE_ZH": "發佈到UAT"
+      "CHINESE": "发布到UAT"
     },
     {
       "_CMSKEY": "o_PUBLISH_LIVE",
       "ENGLISH": "Publish Live",
-      "CHINESE": "发布到线上",
-      "CHINESE_ZH": "發佈到線上"
+      "CHINESE": "发布到线上"
     },
     {
       "_CMSKEY": "o_CANCEL",
       "ENGLISH": "Cancel",
-      "CHINESE": "取消",
-      "CHINESE_ZH": "取消"
+      "CHINESE": "取消"
     },
     {
       "_CMSKEY": "o_SAVE",
       "ENGLISH": "Save",
-      "CHINESE": "保存",
-      "CHINESE_ZH": "保存"
+      "CHINESE": "保存"
     },
     {
       "_CMSKEY": "o_CREATE",
       "ENGLISH": "Create",
-      "CHINESE": "新建",
-      "CHINESE_ZH": "新建"
+      "CHINESE": "新建"
     },
     {
       "_CMSKEY": "o_COLORS",
       "ENGLISH": "Colors",
-      "CHINESE": "颜色",
-      "CHINESE_ZH": "顏色"
+      "CHINESE": "颜色"
     },
     {
       "_CMSKEY": "o_MAIN_COLOR_1",
       "ENGLISH": "MainColor 1",
-      "CHINESE": "主颜色1",
-      "CHINESE_ZH": "主顏色1"
+      "CHINESE": "主颜色1"
     },
     {
       "_CMSKEY": "o_MAIN_COLOR_2",
       "ENGLISH": "MainColor 2",
-      "CHINESE": "主颜色2",
-      "CHINESE_ZH": "主顏色2"
+      "CHINESE": "主颜色2"
     },
     {
       "_CMSKEY": "o_MAIN_COLOR_3",
       "ENGLISH": "MainColor 3",
-      "CHINESE": "主颜色3",
-      "CHINESE_ZH": "主顏色3"
+      "CHINESE": "主颜色3"
     },
     {
       "_CMSKEY": "o_MAIN_COLOR_4",
       "ENGLISH": "MainColor 4",
-      "CHINESE": "主颜色4",
-      "CHINESE_ZH": "主顏色4"
+      "CHINESE": "主颜色4"
     },
     {
       "_CMSKEY": "o_MAIN_COLOR_5",
       "ENGLISH": "MainColor 5",
-      "CHINESE": "主颜色5",
-      "CHINESE_ZH": "主顏色5"
+      "CHINESE": "主颜色5"
     },
     {
       "_CMSKEY": "o_MAIN_COLOR_6",
       "ENGLISH": "MainColor 6",
-      "CHINESE": "主颜色6",
-      "CHINESE_ZH": "主顏色6"
+      "CHINESE": "主颜色6"
     },
     {
       "_CMSKEY": "o_TEXT",
       "ENGLISH": "Text",
-      "CHINESE": "文字",
-      "CHINESE_ZH": "文字"
+      "CHINESE": "Text"
     },
     {
       "_CMSKEY": "o_BACKGROUND",
       "ENGLISH": "Background",
-      "CHINESE": "背景",
-      "CHINESE_ZH": "背景"
+      "CHINESE": "背景"
     },
     {
       "_CMSKEY": "o_PUBLISH_TO_LIVE",
       "ENGLISH": "Publish to live",
-      "CHINESE": "发布到线上",
-      "CHINESE_ZH": "發佈到線上"
+      "CHINESE": "发布到线上"
     },
     {
       "_CMSKEY": "o_REPLACE_PUBLISHED_PROMPT",
       "ENGLISH": "This will replace your existing published theme. Are you sure you want to continue?",
-      "CHINESE": "此动作会替换目前发布的模板。 您确定要继续？",
-      "CHINESE_ZH": "此動作會替換目前的模板。您確定要繼續？"
+      "CHINESE": "此动作会替换目前发布的模板。 您确定要继续？"
     },
     {
       "_CMSKEY": "o_LEAVE_PAGE_PROMPT",
       "ENGLISH": "Are you sure you want to leave this page? The changes you made will be lost.",
-      "CHINESE": "是否离开此页面？ 您所做的改变將会丢失。",
-      "CHINESE_ZH": "是否離開此頁面？您做的改變將會丟失。"
+      "CHINESE": "您确定要离开此页面？ 您所做的改变会丢失。"
     },
     {
       "_CMSKEY": "o_DELETE_THEME_PROMPT",
       "ENGLISH": "Are you sure you want to delete this theme?",
-      "CHINESE": "您确认要删除此模板？",
-      "CHINESE_ZH": "您確認要刪除此模板？"
+      "CHINESE": "您确认要删除此模板？"
     },
     {
       "_CMSKEY": "o_NO",
       "ENGLISH": "No",
-      "CHINESE": "否",
-      "CHINESE＿ZH": "否"
+      "CHINESE": "否"
     },
     {
       "_CMSKEY": "o_YES",
       "ENGLISH": "Yes",
-      "CHINESE": "是",
-      "CHINESE＿ZH": "是"
+      "CHINESE": "是"
     },
     {
       "_CMSKEY": "o_PUBLISH",
       "ENGLISH": "Publish",
-      "CHINESE": "发布",
-      "CHINESE＿ZH": "發佈"
+      "CHINESE": "发布"
     },
     {
       "_CMSKEY": "o_PROCESSING",
       "ENGLISH": "Processing",
-      "CHINESE": "处理中",
-      "CHINESE＿ZH": "處理中"
+      "CHINESE": "处理中"
     },
     {
       "_CMSKEY": "o_TAKE_A_MINUTE",
       "ENGLISH": "This may take a minute.",
-      "CHINESE": "请稍等",
-      "CHINESE＿ZH": "請稍等"
+      "CHINESE": "请等待"
     },
     {
       "_CMSKEY": "o_RECENT",
       "ENGLISH": "Recent",
-      "CHINESE": "最近",
-      "CHINESE＿ZH": "最近"
+      "CHINESE": "最近"
     },
     {
       "_CMSKEY": "o_FAVORITES",
       "ENGLISH": "Favorites",
-      "CHINESE": "我的最愛",
-      "CHINESE＿ZH": "我的最愛"
+      "CHINESE": "我最喜欢"
     },
     {
       "_CMSKEY": "o_HEX",
       "ENGLISH": "Hex",
-      "CHINESE": "Hex",
-      "CHINESE_ZH": "Hex"
+      "CHINESE": "Hex"
     },
     {
       "_CMSKEY": "o_R",
       "ENGLISH": "R",
-      "CHINESE": "R",
-      "CHINESE_ZH": "R"
+      "CHINESE": "R"
     },
     {
       "_CMSKEY": "o_G",
       "ENGLISH": "G",
-      "CHINESE": "G",
-      "CHINESE_ZH": "G"
+      "CHINESE": "G"
     },
     {
       "_CMSKEY": "o_B",
       "ENGLISH": "B",
-      "CHINESE": "B",
-      "CHINESE_ZH": "B"
+      "CHINESE": "B"
     },
     {
       "_CMSKEY": "o_EDIT_THEME_INSTRUCTION",
       "ENGLISH": "Select an element to edit its color.",
-      "CHINESE": "请选想更改的元素。",
-      "CHINESE_ZH": "請選擇欲更改的元素。"
+      "CHINESE": "请选想更改的元素。"
     },
     {
       "_CMSKEY": "o_SET_MAIN_COLOR_INSTRUCTION",
       "ENGLISH": "Select main color to edit.",
-      "CHINESE": "请选想更改的主色。",
-      "CHINESE_ZH": "請選擇想更改的主色。"
+      "CHINESE": "请选想更改的主颜色。"
     },
     {
       "_CMSKEY": "o_EDIT_THEME_INSTRUCTION_1",
       "ENGLISH": "To start editing, click on a component.",
-      "CHINESE": "请点选网页上的元素以开始编辑。",
-      "CHINESE_ZH": "請點選網頁上的元素以開始編輯。"
+      "CHINESE": "请点选网页上的元素以开始编辑。"
     },
     {
       "_CMSKEY": "o_EDIT_THEME_INSTRUCTION_2",
       "ENGLISH": "From the menu that appeared, select the element you want to edit.",
-      "CHINESE": "选取列表中的元素以更改颜色。",
-      "CHINESE_ZH": "選取列表中的元素以更改顏色。"
+      "CHINESE": "选取列表中的元素以更改颜色。"
     },
     {
       "_CMSKEY": "o_EDIT_THEME_INSTRUCTION_3",
       "ENGLISH": "Once an element has been selected, the color editor will appear on the left.",
-      "CHINESE": "当元素被选定時调色板会显示在左边。",
-      "CHINESE_ZH": "當元素被選定時調色板會顯示在左邊。"
+      "CHINESE": "当元素被选定，调色板会显示在左边。"
     },
     {
       "_CMSKEY": "o_SET_MAIN_COLOR_INSTRUCTION",
       "ENGLISH": "Select from the Main Colors above to edit the color scheme of your template.",
-      "CHINESE": "从主色列表中选择想编辑的颜色。",
-      "CHINESE_ZH": "從主色列表中選擇想編輯的顏色。"
+      "CHINESE": "从主颜色列表中选择想编辑的颜色。"
     },
     {
       "_CMSKEY": "o_SAVING",
       "ENGLISH": "Saving",
-      "CHINESE": "保存中",
-      "CHINESE_ZH": "保存中"
+      "CHINESE": "保存中"
     },
     {
       "_CMSKEY": "o_ADDING_NEW_THEME",
-      "ENGLISH": "Adding New Theme ",
-      "CHINESE": "加新模板",
-      "CHINESE_ZH": "加新模板"
+      "ENGLISH": "AddingNew Theme ",
+      "CHINESE": "加新模板"
     },
     {
       "_CMSKEY": "o_ADDING_NEW_THEME_ONBOARDING",
-      "ENGLISH": "From the theme ribbon section, it displays a “+” icon which let’s you start creating your new theme. ",
-      "CHINESE": "点”+“ 标图来创建新模板。",
-      "CHINESE_ZH": "点”+“ 标图来创建新模板。"
+      "ENGLISH": "From thetheme ribbon section, it displays a “+” icon which let’s you start creatingyour new theme. ",
+      "CHINESE": "点”+“标图来创建新模板。"
     },
     {
       "_CMSKEY": "o_THEME_STATUS",
-      "ENGLISH": "Theme Status",
-      "CHINESE": "模板状态",
-      "CHINESE_ZH": "模板状态"
+      "ENGLISH": "ThemeStatus",
+      "CHINESE": "模板状态"
     },
     {
       "_CMSKEY": "o_THEME_STATUS_ONBOARDING_INACTIVE",
-      "ENGLISH": "“Inactive” which is not yet published, ",
-      "CHINESE": "“未启动” - 这状态代表模板还没发布到任何环境",
-      "CHINESE_ZH": "“未启动” - 这状态代表模板还没发布到任何环境"
+      "ENGLISH": "“Inactive” which is not yet published, ",
+      "CHINESE": "“未启动” -这状态代表模板还没发布到任何环境"
     },
     {
       "_CMSKEY": "o_THEME_STATUS_ONBOARDING_UAT",
-      "ENGLISH": "“UAT” published to UAT environment ",
-      "CHINESE": "“UAT版本” 状态，代表模板已发布到UAT环境",
-      "CHINESE_ZH": "“UAT版本” 状态，代表模板已发布到UAT环境"
+      "ENGLISH": "“UAT” published to UAT environment ",
+      "CHINESE": "“UAT版本”状态，代表模板已发布到UAT环境"
     },
     {
       "_CMSKEY": "o_THEME_STATUS_ONBOARDING_LIVE",
-      "ENGLISH": "“Live” published to Production environment. ",
-      "CHINESE": "“线上版本” 状态，代表模板已发布到线上环境",
-      "CHINESE_ZH": "“线上版本” 状态，代表模板已发布到线上环境"
+      "ENGLISH": "“Live” published to Production environment. ",
+      "CHINESE": "“线上版本”状态，代表模板已发布到线上环境   "
     },
     {
       "_CMSKEY": "o_CHANGING_VIEWS",
-      "ENGLISH": "Changing of Views",
-      "CHINESE": "改显示模式",
-      "CHINESE_ZH": "改显示模式"
+      "ENGLISH": "Changingof Views",
+      "CHINESE": "改显示模式"
     },
     {
       "_CMSKEY": "o_CHANGING_VIEWS_ONBOARDING",
-      "ENGLISH": "Click on the mobile, tablet and desktop icons to see how your design looks in different devices and zoom in/out to view the whole site. ",
-      "CHINESE": "点“手机”， “平板” ， ”桌面“标图来切换显示模式。 也可以选百分比缩小，让您验证整个网站设计。",
-      "CHINESE_ZH": "点“手机”， “平板” ， ”桌面“标图来切换显示模式。 也可以选百分比缩小，让您验证整个网站设计。"
+      "ENGLISH": "Clickon the mobile, tablet and desktop icons to see how your design looks indifferent devices and zoom in/out to view the whole site. ",
+      "CHINESE": "点“手机”，“平板” ， ”桌面“标图来切换显示模式。 也可以选百分比缩小，让您验证整个网站设计。"
     },
     {
       "_CMSKEY": "o_EDIT_THEME_ONBOARDING",
-      "ENGLISH": "Customizable components will be highlighted when the user hovers over it. Upon clicking, it will show all of the customizable elements. ",
-      "CHINESE": "当这些滑鼠移到可编辑的物件上会标记颜色。单击这些可编辑的物件会上列出可编辑的元素供选择。",
-      "CHINESE_ZH": "当这些滑鼠移到可编辑的物件上会标记颜色。单击这些可编辑的物件会上列出可编辑的元素供选择。"
+      "ENGLISH": "Customizablecomponents will be highlighted when the user hovers over it. Upon clicking,it will show all of the customizable elements. ",
+      "CHINESE": "当这些滑鼠移到可编辑的物件上会标记颜色。单击这些可编辑的物件会上列出可编辑的元素供选择。   "
     },
     {
       "_CMSKEY": "o_PUBLISH_THEME_ONBOARDING",
-      "ENGLISH": "You can publish your theme to UAT or Production directly.",
-      "CHINESE": "您可将模板发布到 UAT 或是线上环境。",
-      "CHINESE_ZH": "您可将模板发布到 UAT 或是线上环境。"
+      "ENGLISH": "You canpublish your theme to UAT or Production directly.",
+      "CHINESE": "您可将模板发布到UAT 或是线上环境。   "
     },
     {
       "_CMSKEY": "o_PUBLISH_THEME",
-      "ENGLISH": "Publish Theme",
-      "CHINESE": "发布模板",
-      "CHINESE_ZH": "发布模板"
+      "ENGLISH": "PublishTheme",
+      "CHINESE": "发布模板"
+    },
+    {
+      "_CMSKEY": "o_WELCOME_TO_STYLING",
+      "ENGLISH": "WelcomeTo Styling",
+      "CHINESE": "欢迎来到网站主题设计工具"
+    },
+    {
+      "_CMSKEY": "o_VIEW_ON_BIGGER_RESOLUTION_MESSAGE",
+      "ENGLISH": "Pleaseview this module on a bigger resolution.",
+      "CHINESE": "请用更高的分辨率来浏览此网站"
     }
   ]
 }
