@@ -6034,6 +6034,66 @@
       "CHINESE": "切换至新版本网站",
       "ENGLISH": "Switch to New Site",
       "_CMSKEY": "o_SWITCHTONEWSITE"
+    },
+    {
+      "CHINESE": "你已经达到每日最高支出限额 1,500,000,000.00 RMB",
+      "ENGLISH": "You are reaching the daily maximum payout of 1,500,000,000.00 RMB",
+      "_CMSKEY": "o_YOUAREREACHINGTHEDAILYMAXIMUMPAYOUTOF1,500,000,000.00RMB"
+    },
+    {
+      "CHINESE": "您的下注总额已超过您的帐户余额，请修改您的下注金额或是存入更多资金。",
+      "ENGLISH": "Your total stake exceeds your available balance. Please edit your bet(s) or deposit more funds.",
+      "_CMSKEY": "o_YOURTOTALSTAKEEXCEEDSYOURAVAILABLEBALANCE.PLEASEEDITYOURBET(S)ORDEPOSITMOREFUNDS."
+    },
+    {
+      "CHINESE": "已超过最高投注金额。最高投注金额为 80 USD.",
+      "ENGLISH": "Max Bet Limit exceeded. Your Max Bet is 80 USD.",
+      "_CMSKEY": "o_MAXBETLIMITEXCEEDED.YOURMAXBETIS80USD."
+    },
+    {
+      "CHINESE": "有一或多个选项已经暂停下注。",
+      "ENGLISH": "One or more of your selections are closed for betting.",
+      "_CMSKEY": "o_ONEORMOREOFYOURSELECTIONSARECLOSEDFORBETTING."
+    },
+    {
+      "CHINESE": "您的帐号因被停用而无法下注。",
+      "ENGLISH": "Your account is imposed with an exclusion that does not allow bet placement.",
+      "_CMSKEY": "o_YOURACCOUNTISIMPOSEDWITHANEXCLUSIONTHATDOESNOTALLOWBETPLACEMENT."
+    },
+    {
+      "CHINESE": "盘面、赔率或者分数已改变。",
+      "ENGLISH": "The Lines, Odds, or Score has changed.",
+      "_CMSKEY": "o_THELINES,ODDS,ORSCOREHASCHANGED."
+    },
+    {
+      "CHINESE": "滚球 让分",
+      "ENGLISH": "In-Play Handicap",
+      "_CMSKEY": "o_IN-PLAYHANDICAP"
+    },
+    {
+      "CHINESE": "已取消 - 赔率/让分错误",
+      "ENGLISH": "Cancelled - Wrong Odds/Hcap",
+      "_CMSKEY": "o_CANCELLED-WRONGODDS/HCAP"
+    },
+    {
+      "CHINESE": "半场 平局 / 半场 赢",
+      "ENGLISH": "Half Push / Half Win",
+      "_CMSKEY": "o_HALFPUSH/HALFWIN"
+    },
+    {
+      "CHINESE": "预计可赢：",
+      "ENGLISH": "Est. Win:",
+      "_CMSKEY": "o_EST.WIN:"
+    },
+    {
+      "CHINESE": "独赢及位置",
+      "ENGLISH": "Each way",
+      "_CMSKEY": "o_EACHWAY"
+    },
+    {
+      "CHINESE": "总下注金额",
+      "ENGLISH": "Total Stake",
+      "_CMSKEY": "o_TOTALSTAKE"
     }
   ]
 }
