@@ -6094,6 +6094,11 @@
       "CHINESE": "总下注金额",
       "ENGLISH": "Total Stake",
       "_CMSKEY": "o_TOTALSTAKE"
+    },
+    {
+      "CHINESE": "得分最多球员",
+      "ENGLISH": "Top Goal Scorer",
+      "_CMSKEY": "TOP_GOAL_SCORER"
     }
   ]
 }
