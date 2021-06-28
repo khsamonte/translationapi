@@ -319,6 +319,217 @@
       "_CMSKEY": "o_VIEW_ON_BIGGER_RESOLUTION_MESSAGE",
       "ENGLISH": "Pleaseview this module on a bigger resolution.",
       "CHINESE": "请用更高的分辨率来浏览此网站"
+    },
+    ,
+    {
+      "_CMSKEY": "o_DASHBOARD",
+      "ENGLISH": "Dashboard",
+      "CHINESE": "首页"
+    },
+    {
+      "_CMSKEY": "o_PROBLEM_ACCOUNT",
+      "ENGLISH": "ProblemAccount",
+      "CHINESE": "问题帐号"
+    },
+    {
+      "_CMSKEY": "o_ANNOUNCEMENT",
+      "ENGLISH": "Announcement",
+      "CHINESE": "公告"
+    },
+    {
+      "_CMSKEY": "o_QUICK_SEARCH",
+      "ENGLISH": "QuickSearch",
+      "CHINESE": "快速搜索"
+    },
+    {
+      "_CMSKEY": "o_LIVE_CHAT",
+      "ENGLISH": "LiveChat",
+      "CHINESE": "在线客服"
+    },
+    {
+      "_CMSKEY": "o_WMC",
+      "ENGLISH": "WMC",
+      "CHINESE": "注单监视视窗"
+    },
+    {
+      "_CMSKEY": "o_PERFORMANCE_OVERVIEW",
+      "ENGLISH": "PerformanceOverview",
+      "CHINESE": "绩效概况"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_OVERVIEW",
+      "ENGLISH": "AccountOverview",
+      "CHINESE": "下线概况"
+    },
+    {
+      "_CMSKEY": "o_DOWNLINE_SUMMARY",
+      "ENGLISH": "DownlineSummary",
+      "CHINESE": "下线状态"
+    },
+    {
+      "_CMSKEY": "o_POSSESS_REVENUE",
+      "ENGLISH": "PossessRevenue",
+      "CHINESE": "占成收入"
+    },
+    {
+      "_CMSKEY": "o_MEMBERS_WITH_WAGER",
+      "ENGLISH": "Members withWagers",
+      "CHINESE": "投注人数"
+    },
+    {
+      "_CMSKEY": "o_TURNOVER",
+      "ENGLISH": "Turnover",
+      "CHINESE": "实货量"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS",
+      "ENGLISH": "Win / Loss",
+      "CHINESE": "赢 / 输"
+    },
+    {
+      "_CMSKEY": "o_YESTERDAY",
+      "ENGLISH": "Yesterday",
+      "CHINESE": "昨天"
+    },
+    {
+      "_CMSKEY": "o_LAST_WEEK",
+      "ENGLISH": "LastWeek",
+      "CHINESE": "上周"
+    },
+    {
+      "_CMSKEY": "o_THIS_PERIOD",
+      "ENGLISH": "ThisPeriod",
+      "CHINESE": "本期"
+    },
+    {
+      "_CMSKEY": "o_LAST_PERIOD",
+      "ENGLISH": "LastPeriod",
+      "CHINESE": "上期"
+    },
+    {
+      "_CMSKEY": "o_PROFIT_MARGIN",
+      "ENGLISH": "ProfitMargin",
+      "CHINESE": "获利率"
+    },
+    {
+      "_CMSKEY": "o_INCREASE_PREVIOUS_DAY",
+      "ENGLISH": "increase from previous day",
+      "CHINESE": "比前一天增加"
+    },
+    {
+      "_CMSKEY": "o_DECREASE_PREVIOUS_DAY",
+      "ENGLISH": "decrease from previous day",
+      "CHINESE": "比前一天减少"
+    },
+    {
+      "_CMSKEY": "o_INCREASE_PREVIOUS_WEEK",
+      "ENGLISH": "increase from previous week",
+      "CHINESE": "比上周增加"
+    },
+    {
+      "_CMSKEY": "o_DECREASE_PREVIOUS_WEEK",
+      "ENGLISH": "decrease from previous week",
+      "CHINESE": "比上周减少"
+    },
+    {
+      "_CMSKEY": "o_CREDIT",
+      "ENGLISH": "Credit",
+      "CHINESE": "信用额度"
+    },
+    {
+      "_CMSKEY": "o_AVAILABLE_BALANCE",
+      "ENGLISH": "AvailableBalance",
+      "CHINESE": "剩余额度"
+    },
+    {
+      "_CMSKEY": "o_NEW_MEMBERS_THIS_PERIOD",
+      "ENGLISH": "NewMembers this Period",
+      "CHINESE": "本期新会员数"
+    },
+    {
+      "_CMSKEY": "o_REMAINING_DAYS",
+      "ENGLISH": "RemainingDays",
+      "CHINESE": "本周剩余天数"
+    },
+    {
+      "_CMSKEY": "o_COMPLETED_DAYS",
+      "ENGLISH": "Completed Days",
+      "CHINESE": "本周完成天数"
+    },
+    {
+      "_CMSKEY": "o_LAST_LOGIN",
+      "ENGLISH": "Last Login",
+      "CHINESE": "最后登入日期"
+    },
+    {
+      "_CMSKEY": "o_LAST_PASSWORD_CHANGE",
+      "ENGLISH": "Last PasswordChange",
+      "CHINESE": "密码最后更新日期"
+    },
+    {
+      "_CMSKEY": "o_MA",
+      "ENGLISH": "MA",
+      "CHINESE": "总代理"
+    },
+    {
+      "_CMSKEY": "o_AGENT",
+      "ENGLISH": "Agent",
+      "CHINESE": "代理商"
+    },
+    {
+      "_CMSKEY": "o_MEMBER",
+      "ENGLISH": "Member",
+      "CHINESE": "会员"
+    },
+    {
+      "_CMSKEY": "o_ACTIVE",
+      "ENGLISH": "Active",
+      "CHINESE": "启用"
+    },
+    {
+      "_CMSKEY": "o_INACTIVE",
+      "ENGLISH": "Inactive",
+      "CHINESE": "停用"
+    },
+    {
+      "_CMSKEY": "o_VIEW_ONLY",
+      "ENGLISH": "ViewOnly",
+      "CHINESE": "只能看帐"
+    },
+    {
+      "_CMSKEY": "o_SUSPENDED",
+      "ENGLISH": "Suspended",
+      "CHINESE": "禁止登入"
+    },
+    {
+      "_CMSKEY": "o_THIS_PERIOD_IS_NOT_SET",
+      "ENGLISH": "This period is not set.",
+      "CHINESE": "本期未定下"
+    },
+    {
+      "_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
+      "ENGLISH": "The data is temporarily unavailable.",
+      "CHINESE": "暂时无数据"
+    },
+    {
+      "_CMSKEY": "o_DAY1",
+      "ENGLISH": "Day 1",
+      "CHINESE": "第1天"
+    },
+    {
+      "_CMSKEY": "o_DAY3",
+      "ENGLISH": "Day 3",
+      "CHINESE": "第3天"
+    },
+    {
+      "_CMSKEY": "o_22_FEB",
+      "ENGLISH": "22 Feb(Mon)",
+      "CHINESE": "02月22日(星期一）"
+    },
+    {
+      "_CMSKEY": "o_24_FEB",
+      "ENGLISH": "24 Feb(Wed)",
+      "CHINESE": "02月24日(星期三）"
     }
   ]
 }
