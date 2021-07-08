@@ -530,6 +530,31 @@
       "_CMSKEY": "o_24_FEB",
       "ENGLISH": "24 Feb(Wed)",
       "CHINESE": "02月24日(星期三）"
+    },
+    {
+      "_CMSKEY": "o_REMAINING_DAYS",
+      "ENGLISH": "Remaining Days",
+      "CHINESE": "本期剩余天数"
+    },
+    {
+      "_CMSKEY": "o_COMPLETED_DAYS",
+      "ENGLISH": "Completed Days",
+      "CHINESE": "本期完成天数"
+    },
+    {
+      "_CMSKEY": "o_LAST_LOGIN",
+      "ENGLISH": "Last Login",
+      "CHINESE": "最后登入时间"
+    },
+    {
+      "_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
+      "ENGLISH": "Search Calibri General B39 Data will be available after daily maintenance",
+      "CHINESE": "维修后才有数据"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_OVERVIEW",
+      "ENGLISH": "Account Overview",
+      "CHINESE": "帐号概况"
     }
   ]
 }
