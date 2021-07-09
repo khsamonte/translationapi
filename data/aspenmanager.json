@@ -1,5 +1,111 @@
 {
   "All Terms": [
+    
+    {
+      "_CMSKEY": "o_DASHBOARD",
+      "ENGLISH": "Dashboard",
+      "CHINESE": "首页"
+    },
+    {
+      "_CMSKEY": "o_PROBLEM_ACCOUNT",
+      "ENGLISH": "ProblemAccount",
+      "CHINESE": "问题帐号"
+    },
+    {
+      "_CMSKEY": "o_ANNOUNCEMENT",
+      "ENGLISH": "Announcement",
+      "CHINESE": "公告"
+    },
+    {
+      "_CMSKEY": "o_QUICK_SEARCH",
+      "ENGLISH": "QuickSearch",
+      "CHINESE": "快速搜索"
+    },
+    {
+      "_CMSKEY": "o_LIVE_CHAT",
+      "ENGLISH": "LiveChat",
+      "CHINESE": "在线客服"
+    },
+    {
+      "_CMSKEY": "o_WMC",
+      "ENGLISH": "WMC",
+      "CHINESE": "注单监视视窗"
+    },
+    {
+      "_CMSKEY": "o_PERFORMANCE_OVERVIEW",
+      "ENGLISH": "PerformanceOverview",
+      "CHINESE": "绩效概况"
+    },
+    {
+      "_CMSKEY": "o_DOWNLINE_SUMMARY",
+      "ENGLISH": "DownlineSummary",
+      "CHINESE": "下线状态"
+    },
+    {
+      "_CMSKEY": "o_POSSESS_REVENUE",
+      "ENGLISH": "PossessRevenue",
+      "CHINESE": "占成收入"
+    },
+    {
+      "_CMSKEY": "o_MEMBERS_WITH_WAGER",
+      "ENGLISH": "Members withWagers",
+      "CHINESE": "投注人数"
+    },
+    {
+      "_CMSKEY": "o_TURNOVER",
+      "ENGLISH": "Turnover",
+      "CHINESE": "实货量"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS",
+      "ENGLISH": "Win / Loss",
+      "CHINESE": "赢 / 输"
+    },
+    {
+      "_CMSKEY": "o_YESTERDAY",
+      "ENGLISH": "Yesterday",
+      "CHINESE": "昨天"
+    },
+    {
+      "_CMSKEY": "o_LAST_WEEK",
+      "ENGLISH": "LastWeek",
+      "CHINESE": "上周"
+    },
+    {
+      "_CMSKEY": "o_THIS_PERIOD",
+      "ENGLISH": "ThisPeriod",
+      "CHINESE": "本期"
+    },
+    {
+      "_CMSKEY": "o_LAST_PERIOD",
+      "ENGLISH": "LastPeriod",
+      "CHINESE": "上期"
+    },
+    {
+      "_CMSKEY": "o_PROFIT_MARGIN",
+      "ENGLISH": "ProfitMargin",
+      "CHINESE": "获利率"
+    },
+    {
+      "_CMSKEY": "o_INCREASE_PREVIOUS_DAY",
+      "ENGLISH": "increase from previous day",
+      "CHINESE": "比前一天增加"
+    },
+    {
+      "_CMSKEY": "o_DECREASE_PREVIOUS_DAY",
+      "ENGLISH": "decrease from previous day",
+      "CHINESE": "比前一天减少"
+    },
+    {
+      "_CMSKEY": "o_INCREASE_PREVIOUS_WEEK",
+      "ENGLISH": "increase from previous week",
+      "CHINESE": "比上周增加"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_OVERVIEW",
+      "ENGLISH": "Account Overview",
+      "CHINESE": "帐号概况"
+    },
     {
       "_CMSKEY": "o_DECREASE_PREVIOUS_WEEK",
       "ENGLISH": "decrease from previous week",
