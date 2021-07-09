@@ -188,8 +188,8 @@
     },
     {
       "_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
-      "ENGLISH": "The data is temporarily unavailable.",
-      "CHINESE": "暂时无数据"
+      "ENGLISH": "Data will be available after daily maintenance.",
+      "CHINESE": "维修后才有数据"
     },
     {
       "_CMSKEY": "o_DAY1",
